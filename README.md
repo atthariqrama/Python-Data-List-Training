@@ -21,5 +21,6 @@ Data Tuple sekilas memiliki kesamaan dengan tipe data List, data Tuple diberikan
 
 Data Dictionary merupakan data list yang sangat berguna untuk pemnaggilan fungsinya, karena pada cara assign-nya dilakukan dengan mengisi ("key": "value), ketika pemanggilan data tersebut hanya perlu memanggil fungsi "key" untuk menampilkan isi pada data Dictionary yang telah di-assign
 
+
 > Contoh penggunaan beserta fungsi tambahan yang diaplikasikan dapat dilihat pada file terlampir
 
